@@ -10,6 +10,17 @@ This is a my container for Coding Essentials. It is a collection of resources an
 
 ## Table of Contents
 
-**Cheatsheets**
+#### Cheatsheets
 
-[Coding Basics](cheatsheets/coding_basics.md)
+* [Coding Basics](cheatsheets/coding_basics.md)
+
+#### Explanations
+
+
+
+#### Terms
+
+* [Class](terms/class.md)
+* [Closure](terms/closure.md)
+* [Debugging](terms/debugging.md)
+* [Inheritance](terms/inheritance.md)

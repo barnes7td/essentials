@@ -24,12 +24,18 @@
   * Code to a User Story
   * Don't get distracted by other coding ideas
   * Write down bugs you find or ideas you have and do them later.
-5. Create Feature, Fix Bug, or Refactor Code, but only 1 at a time.
-6. Methods get input and return output. Always know what you are getting and what you're returning.
-7. Think like a User. Empathize with the User.
-8. Solve ugly and verbose first, then refactor
-  * Find a solution first with trial and error.
-  * Refactor till easily comprehensible.
-9. Empathize with fellow coders.
-10. Tell. Don't Ask.
-11. Make the change easy, then make the change.
+
+**Principle 5:** Create Feature, Fix Bug, or Refactor Code, but only 1 at a time.
+
+**Principle 6:** Methods get input and return output. Always know what you are getting and what you're returning.
+
+**Principle 7:** Think like a User. Empathize with the User.
+
+**Principle 8:** Solve ugly and verbose first, then refactor
+  1. Find a solution, by any means necessary.
+  2. Refactor, with the goal of being comprehensible.
+  3. Review. If needed, refactor again.
+
+**Principle 9:** Use a for loop if you know the number of loops, else use a while loop.
+
+**Principle 10:** The end product is the User Experience. It is the priority.
