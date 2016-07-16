@@ -16,7 +16,11 @@ This is a my container for Coding Essentials. It is a collection of resources an
 
 #### Explanations
 
+* [Methods](explanations/methods.md)
 
+#### Problems
+
+* [Index](problems/_index.md)
 
 #### Terms
 
