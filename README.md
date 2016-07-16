@@ -12,4 +12,4 @@ This is a my container for Coding Essentials. It is a collection of resources an
 
 **Cheatsheets**
 
-[Coding Basics]("./cheatsheets/coding_basics.md")
+[Coding Basics](cheatsheets/coding_basics.md)
