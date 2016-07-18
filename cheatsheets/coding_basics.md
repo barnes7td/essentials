@@ -39,3 +39,5 @@
 **Principle 9:** Use a for loop if you know the number of loops, else use a while loop.
 
 **Principle 10:** The end product is the User Experience. It is the priority.
+
+**Principle 11:** Have a reason for why you did something, even if that reason is wrong.
