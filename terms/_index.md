@@ -2,7 +2,6 @@
 
 ## Phase 1
 * [algorithm](algorithm.md)
-* [API](api.md)
 * [application stack](application_stack.md)
 * [array](array.md)
 * [assignment](assignment.md)
@@ -29,9 +28,6 @@
 * [integer](integer.md)
 * [interpreter](interpreter.md)
 * [iteration](iteration.md)
-* [JSON](json.md)
-* [library](library.md)
-* [logging](logging.md)
 * [loop](loop.md)
 * [method](method.md)
 * [method call](method_call.md)
@@ -45,7 +41,11 @@
 * [text editor](text_editor.md)
 * [variable](variable.md)
 * [version control](version_control.md)
-* [web server](web_server.md)
 
 
 ## Phase 2
+* [API](api.md)
+* [JSON](json.md)
+* [library](library.md)
+* [logging](logging.md)
+* [web server](web_server.md)
